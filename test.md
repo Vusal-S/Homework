@@ -1,0 +1,2 @@
+
+$\int\limits_0^x \dfrac{\sin t+1}{\sqrt[3]{t}} dt=\alpha$
