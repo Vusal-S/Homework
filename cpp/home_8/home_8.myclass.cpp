@@ -22,7 +22,7 @@ istream &operator>>(istream &in, myclass &ob)
 	
 ostream &operator<<(ostream &out, myclass &ob)
 {
-	out << ob.a << ", " << ob.b << endl;
+	out << ob.a << ", " << ob.b;
 	
 	return out;
 }
